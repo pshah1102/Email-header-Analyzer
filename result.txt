@@ -1,0 +1,15 @@
+Received: by 2002:a54:32cc:0:0:0:0:0 with SMTP id m12csp327894ecs;
+
+Received: from mail-sor-f41.google.com (mail-sor-f41.google.com. [209.85.220.41])
+
+Received-SPF: pass (google.com: domain of shahpoojans18@gmail.com designates 209.85.220.41 as permitted sender) client-ip=209.85.220.41;
+
+Authentication-Results: mx.google.com;
+
+Received: from LAPTOP-4P7FJKKR ([106.205.243.50])
+
+From: shahpoojans18@gmail.com
+
+Subject: Update your account
+Return-Path:
+<shahpoojans18@gmail.com>
